@@ -19,14 +19,17 @@ This programming project uses Node.js inside Debian to run a FizzBuzz JavaScript
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/xZp7eDE.png" height="80%" width="80%" alt=""/>
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/235fd81c-3d17-42cf-a287-4a128798af51" />
+
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/MFPVNJJ.png" height="80%" width="80%" alt=""/>
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/ce20c5d4-46a0-4f1c-bb90-4d2cfcb70687" />
+
 <br />
 <br/>
-<img src="https://i.imgur.com/C7lbX4r.png" height="80%" width="80%" alt=""/>
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/2b405ad1-a4db-48e5-ad84-5780d8964be7" />
+
 <br />
 
 
